@@ -1,0 +1,54 @@
+{
+  "certificates": [
+    {
+      "id": "powerbi-pl300",
+      "name": "Microsoft Power BI Data Analyst Associate (PL-300)",
+      "issuer": "Microsoft",
+      "date": "March 2025",
+      "image": "images/certificates/powerbi-pl300-preview.jpg",
+      "pdf": "assets/certificates/powerbi-pl300-certificate.pdf",
+      "type": "Professional Certification",
+      "skills": ["Power BI", "Data Analysis", "DAX", "Power Query", "Data Visualization"]
+    },
+    {
+      "id": "coursera-js",
+      "name": "JavaScript Programming Specialization",
+      "issuer": "Coursera",
+      "date": "September 2025", 
+      "image": "images/certificates/coursera-js-preview.jpg",
+      "pdf": "assets/certificates/coursera-jslc6ck2ldag.pdf",
+      "type": "Online Course Completion",
+      "skills": ["JavaScript", "Web Development", "Programming", "DOM Manipulation"]
+    },
+    {
+      "id": "guvi-cert1",
+      "name": "Full Stack Development Certification",
+      "issuer": "GUVI",
+      "date": "September 2025",
+      "image": "images/certificates/guvi-cert-2exo1357516b561f27.png",
+      "pdf": "images/certificates/guvi-cert-2exo1357516b561f27.png",
+      "type": "Full Stack Development",
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB"]
+    },
+    {
+      "id": "guvi-cert2", 
+      "name": "Data Science & Analytics Certification",
+      "issuer": "GUVI",
+      "date": "September 2025",
+      "image": "images/certificates/guvi-cert-9p869vgd5q2ti7g19e.png",
+      "pdf": "images/certificates/guvi-cert-9p869vgd5q2ti7g19e.png",
+      "type": "Data Science",
+      "skills": ["Python", "Data Science", "Machine Learning", "Analytics", "Pandas"]
+    },
+    {
+      "id": "guvi-cert3",
+      "name": "Cloud Computing & DevOps Certification", 
+      "issuer": "GUVI",
+      "date": "September 2025",
+      "image": "images/certificates/guvi-cert-211656h91wuo89v9rh.png",
+      "pdf": "images/certificates/guvi-cert-211656h91wuo89v9rh.png",
+      "type": "Cloud & DevOps",
+      "skills": ["AWS", "Cloud Computing", "DevOps", "Docker", "CI/CD"]
+    }
+  ]
+}
