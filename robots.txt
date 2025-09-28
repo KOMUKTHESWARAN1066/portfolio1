@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://komuktheswaran1066.github.io/Portfolio/sitemap1.xml
+Sitemap: https://9bf392c4.portfolio1-a5b.pages.dev/sitemap1.xml
