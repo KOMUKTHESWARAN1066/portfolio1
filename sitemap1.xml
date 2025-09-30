@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<url>
-<loc>https://portfolio1-a5b.pages.dev/</loc>
-<lastmod>2025-09-28T12:34:21+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://portfolio1-a5b.pages.dev/assets/documents/KOMUKTHESWARAN.pdf</loc>
-<lastmod>2025-09-28T12:34:21+00:00</lastmod>
-<priority>0.80</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://komuktheswaran1066.github.io/assets/documents/KOMUKTHESWARAN.pdf</loc>
+    <lastmod>2025-09-30</lastmod>
+  </url>
+  <url>
+    <loc>http://komuktheswaran1066.github.io/TagDial</loc>
+    <lastmod>2025-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://komuktheswaran1066.github.io/Portfolio/robots.txt</loc>
+    <lastmod>2025-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://komuktheswaran1066.github.io/Portfolio/sitemap.xml</loc>
+    <lastmod>2025-09-30</lastmod>
+  </url>
 </urlset>
